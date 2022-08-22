@@ -1,19 +1,19 @@
 body {
     margin: 0%;
 }
-
+/* Headng 1 keyword color */
 h1 {
     color: blue;
 }
-
+/* Heading 2 hex color */
 h2 {
     color: #ff0000
 }
-
+/* Heading 3 hsl color */
 h3 {
     color: hsl(271, 76%, 53%)
 }
-
+/* Heading 4 rgb color */
 h4 {
     color: rgb(255, 20, 147)
 }
