@@ -6,8 +6,10 @@ h1 {
     color: blue;
 }
 
-h2{color: #ff0000}
+h2 {
+    color: #ff0000
+}
 
-h3{}
+h3 {color:hsl(271, 76%, 53%)}
 
-h4{}
+h4 {color:rgb(255, 20, 147)}
